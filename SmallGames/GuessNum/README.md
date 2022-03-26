@@ -1,0 +1,1 @@
+Simple CLI game; The program will generate a number from 1-10, the user will then proceed to guess that number. Options for replayability.

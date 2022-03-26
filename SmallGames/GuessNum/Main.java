@@ -1,8 +1,5 @@
 package SmallGames.GuessNum;
 
-import SmallGames.GuessNum.packages.HigherOrLower;
-import SmallGames.GuessNum.packages.UserInput;
-
 
 public class Main {
     public static void main(String[] args) {
