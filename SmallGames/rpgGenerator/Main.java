@@ -10,7 +10,7 @@ public class Main {
     }
 
     public static void main(){
-        UserInput.askNameAndCreateRole();
+        UserInput.askName();
         UserInput.askDifficultyAndPopulateStats();
         while(!UserInput.getIsDone()){
             UserInput.checkStats();
